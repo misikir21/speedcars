@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
+import { CustomButton } from ".";
 function NavBar() {
   return (
     <header className="w-full absolute z-10">
@@ -14,6 +15,11 @@ function NavBar() {
             className="object-contain"
           />
         </Link>
+        <CustomButton
+          title="sign in"
+          btntype="button"
+          containerStyles="text-primary-blue rounded-full bg-white min-w-[130px]"
+        />
       </nav>
     </header>
   );
