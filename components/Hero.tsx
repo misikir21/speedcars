@@ -1,4 +1,5 @@
 "use client";
+import Image from "next/image";
 import React from "react";
 import { CustomButton } from ".";
 function Hero() {
@@ -18,6 +19,12 @@ function Hero() {
           handleClick={handleScroll}
           containerStyles="bg-primary-blue text-white rounded-full mt-10"
         />
+      </div>
+      <div className="hero__image-container">
+        <div className="hero__image">
+          <Image src="/hero.png" alt="hero" fill className="object-contain" />
+          <div className="hero__image-overlay" />
+        </div>
       </div>
     </div>
   );
