@@ -5,7 +5,7 @@ import { CustomButton } from ".";
 function Hero() {
   const handleScroll = () => {};
   return (
-    <div className="hero">
+    <div className="hero xl:w-full">
       <div className="flex-1 pt-36 padding-x">
         <h1 className="hero__title">
           Find,book or Renta car --quickly and easily!
