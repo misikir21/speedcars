@@ -25,7 +25,7 @@
 
 # 📖 [Portofilo] <a name="about-project"></a>
 
-> **[Portofilo]** is a web page that describes me as a developer and what I can do like build products for the WEB applications, features, and websites look through some of my work and experience! If you like what you see and have a project you need to be coded, don’t hesitate to contact me.
+> **[Portofilo]** is a web page that describes me as a developer and what I can do like build products for the WEB applications, features, and websites look through some of my work and experience! If you like what you see and have a project you need to code, don’t hesitate to contact me.
 
 ## 🛠 Built With <a name="built-with"></a>
 
