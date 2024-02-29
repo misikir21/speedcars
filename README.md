@@ -112,7 +112,7 @@ Example command:
 
 -GitHub: [@misikira](https://github.com/misikira)<br>
 -Twitter: https://twitter.com/Misikirabate<br>
--LinkedIn: https://www.linkedin.com/in/misikir-abate-043b7b140/
+-LinkedIn: https://www.linkedin.com/in/misikir-abate
 -website:https://misikira.github.io/My-Portofilo-Website/
 
 👤 **Author2**
