@@ -56,8 +56,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- https://misikira.github.io/My-Portofilo-Website/
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
