@@ -115,14 +115,6 @@ Example command:
 -LinkedIn: https://www.linkedin.com/in/misikir-abate
 -website:https://misikira.github.io/My-Portofilo-Website/
 
-👤 **Author2**
-
--GitHub: [@misikira](https://github.com/samiullahufail12345678)<br>
-
-
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
