@@ -25,8 +25,7 @@
 
 # 📖 [Portofilo] <a name="about-project"></a>
 
-> **[speedcars]** is a web app for car listing websites that fetches data from the remote API i.e. carapiby api ninjas it has the feature to sort and filter the car data by different values
-it has user intuitive user interface.
+> **[speedcars]** is a web app for car listing websites that fetches data from the remote API i.e. carapiby api ninjas it has the feature to sort and filter the car data by different values it has user intuitive user interface.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -38,6 +37,9 @@ it has user intuitive user interface.
   <ul>
     <li><a href="https://reactjs.org/">HTML</a></li>
     <li><a href="https://reactjs.org/">CSS</a></li>
+    <li><a href="https://reactjs.org/">JS</a></li>
+    <li><a href="https://reactjs.org/">REACT</a></li>
+    <li><a href="https://reactjs.org/">NEXTJS</a></li>
   </ul>
 </details>
 
