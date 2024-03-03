@@ -147,7 +147,7 @@ If you like this project reach me out at misikirteka@gmail.com
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank code reviwers and coding partner for their unconditional support and guidance.
+I would like to thank the code reviewers and coding partners for their unconditional support and guidance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
