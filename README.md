@@ -123,9 +123,7 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Animations]**
-- [ ] **[Email Validation]**
-
+- [ ] More features to make more complete
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
