@@ -51,6 +51,7 @@
 - **[Mobile versrion]**
 - **[Mobile menu]**
 - **[Contact form]**
+- **[filter & sort]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
